@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "plancha",
+    "description": "plancha de uso dosmetico",
+    "price": 1500,
+    "thumbnail": "una ruta de imagen",
+    "code": "10010",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "cocina",
+    "description": "cocina de 4 hornallas ",
+    "price": 45000,
+    "thumbnail": "una ruta de imagen",
+    "code": "10011",
+    "stock": 6
+  },
+  {
+    "id": 3,
+    "title": "lavarropas",
+    "description": "capacidad de 9kg",
+    "price": 90000,
+    "thumbnail": "una ruta de imagen",
+    "code": "10012",
+    "stock": 9
+  }
+]
